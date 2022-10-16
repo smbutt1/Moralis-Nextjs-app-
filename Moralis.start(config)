@@ -1,0 +1,6 @@
+Moralis.start({
+  apiKey: "YOUR_API_KEY",
+  formatEvmAddress: 'checksum',
+  formatEvmChainId: 'decimal',
+  logLevel: 'verbose'
+})
